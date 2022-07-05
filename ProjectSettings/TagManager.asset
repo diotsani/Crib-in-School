@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - batas
+  - Box
+  - player
+  - PopupButton
+  - Box2
+  - EndPanel
+  - PanelResult
+  - BarPlayer
+  - pesawat
+  - enemy
+  - guru
+  - umpan
+  - muridBiasa
+  - deteksiguru
+  - deteksi pesawat
+  - popupbtn
+  - popupbtn2
+  - popupbtnkanan
+  - point
+  - Skill
+  - Sprite
+  - Plane
+  - barplayer0
+  - barplayer1
+  - barplayer3
+  - barplayer2
+  - Penghapus
+  - Undefined
+  - Marker
+  - NomerSliding
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TargetSkill2
+  - Obstacle
+  - Target
+  - puzzle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

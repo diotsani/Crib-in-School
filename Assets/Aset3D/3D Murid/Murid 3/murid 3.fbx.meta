@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: d4006178dbcc2964ca6e4acd9a94287e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3890931260741919558
+    second: Body Armature.001|animasi melapor khusus cepu
+  - first:
+      74: 5940497358580874246
+    second: Body Armature.001|IDLE
+  - first:
+      74: 2563775928679133281
+    second: Body Armature.001|katahuan
+  - first:
+      74: 3631836619262040978
+    second: Body Armature.001|katahuan.001
+  - first:
+      74: 3830175768102184200
+    second: Body Armature.001|ketahuan2
+  - first:
+      74: 3393885957908462559
+    second: Body Armature.001|ketahuan3
+  - first:
+      74: 4871504677583957849
+    second: Body Armature.001|ketahuan3.001
+  - first:
+      74: 1280123222254572106
+    second: Body Armature.001|lempar  kanan
+  - first:
+      74: -7569689099715458212
+    second: Body Armature.001|lempar  kanan.001
+  - first:
+      74: 5924708628938238411
+    second: Body Armature.001|lempar belakan kiri
+  - first:
+      74: 1460865112565821942
+    second: Body Armature.001|lempar belakang
+  - first:
+      74: -5437585792146130531
+    second: Body Armature.001|lempar belakang kanan
+  - first:
+      74: -1204144729937882077
+    second: Body Armature.001|lempar belakang kanan.001
+  - first:
+      74: -3090379971353970574
+    second: Body Armature.001|lempar depan
+  - first:
+      74: -3569769038810133862
+    second: Body Armature.001|lempar depan kanan
+  - first:
+      74: -6057084943163587880
+    second: Body Armature.001|lempar depan kanan.001
+  - first:
+      74: 5519175714240856009
+    second: Body Armature.001|lempar depan kiri
+  - first:
+      74: 5008410062047116029
+    second: Body Armature.001|lempar depan.001
+  - first:
+      74: 7487955001755827886
+    second: Body Armature.001|lempar kiri
+  - first:
+      74: 8231663955382650557
+    second: Body Armature.001|lempar kiri.001
+  - first:
+      74: -9175180993118277393
+    second: Body Armature.001|NOLEH
+  - first:
+      74: -8029576367311995590
+    second: Body Armature.001|pensil animasi noleh
+  - first:
+      74: 3108462311151027926
+    second: Body Armature.001|PENSIL idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 335cbc06335864745922eb33e20c2460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 4f3f2bc91ce714b46abb4452331663ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 5fb2e053a368acf49826f3f949bdfa5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 2fb347a64e036ee409c1b48b85e0907b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: c8acb892e61b1f440929d2e938edbd32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 64f3e541d0a047e46aa82e111a71abfa, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

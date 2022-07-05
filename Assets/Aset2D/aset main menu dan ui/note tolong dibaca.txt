@@ -1,0 +1,16 @@
+text memakai milky nice clean
+
+lalu jika ada tulisan "alternatif" atau "optional" itu pilihan "mau pakai yg mana" atau "mau pake yg udah ada atau tidak" (sehingga perlu 
+menambahkan text sediri)
+
+aku bikin 2 opsi ini karena buat jaga2 kalau desainnya menganggu
+contoh :
+-(contoh alternatif) di folder layar result itu terdapat papan dan papan alternatif. itu kamu bisa pilih salah satu yang menurut kamu ngak ganggu atau bagus
+-(contoh opsional) di folder layar option, disitu terdapat folder teks opsional, kamu bisa memakai yg sudah ada atau bikin tulisan baru sendiri
+
+
+
+note penting
+aku gak memasukan beberapa teks, contohnya teks deskripsi skill, skill point, result, angka dll.
+
+kalo ada yg kurangg bisa chat wa

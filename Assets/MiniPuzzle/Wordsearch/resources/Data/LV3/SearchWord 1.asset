@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dbeedd92abeb8439cb0771b336abef, type: 3}
+  m_Name: SearchWord 1
+  m_EditorClassIdentifier: 
+  Time: 0
+  Columns: 6
+  Rows: 7
+  letter: {fileID: 0}
+  Board:
+  - Size: 7
+    Row:
+    - Y
+    - V
+    - F
+    - A
+    - I
+    - H
+    - M
+  - Size: 7
+    Row:
+    - B
+    - N
+    - Z
+    - U
+    - S
+    - G
+    - O
+  - Size: 7
+    Row:
+    - A
+    - E
+    - C
+    - F
+    - A
+    - G
+    - N
+  - Size: 7
+    Row:
+    - D
+    - B
+    - Y
+    - J
+    - A
+    - J
+    - Y
+  - Size: 7
+    Row:
+    - A
+    - X
+    - A
+    - V
+    - I
+    - N
+    - E
+  - Size: 7
+    Row:
+    - K
+    - H
+    - B
+    - G
+    - F
+    - L
+    - T
+  searchingWords:
+  - word: BADAK
+  - word: GAJAH
+  - word: MONYET

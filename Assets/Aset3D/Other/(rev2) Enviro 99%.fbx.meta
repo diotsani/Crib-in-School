@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: ddffde7e4ca67f04fbc12e834154a8fa
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Bendera Merah Putih
+  - first:
+      1: 100004
+    second: Bendera Segitiga
+  - first:
+      1: 100006
+    second: Bendera Segitiga 2
+  - first:
+      1: 100008
+    second: Botol
+  - first:
+      1: 100010
+    second: Cover Jam
+  - first:
+      1: 100012
+    second: CTRL_Baseboard
+  - first:
+      1: 100014
+    second: CTRL_Hole
+  - first:
+      1: 100016
+    second: CTRL_Hole.001
+  - first:
+      1: 100018
+    second: CTRL_Hole.004
+  - first:
+      1: 100020
+    second: Cylinder.002
+  - first:
+      1: 100022
+    second: Door
+  - first:
+      1: 100024
+    second: Door_Group
+  - first:
+      1: 100026
+    second: DoorFrame
+  - first:
+      1: 100028
+    second: Handle_Back
+  - first:
+      1: 100030
+    second: Handle_Front
+  - first:
+      1: 100032
+    second: Jarum Jam
+  - first:
+      1: 100034
+    second: Jarum Jam 2
+  - first:
+      1: 100036
+    second: Kain Meja
+  - first:
+      1: 100038
+    second: kapur1
+  - first:
+      1: 100040
+    second: kapur2
+  - first:
+      1: 100042
+    second: kapur3
+  - first:
+      1: 100044
+    second: kapur4
+  - first:
+      1: 100046
+    second: Kursi Guru
+  - first:
+      1: 100048
+    second: Kursi Luar 1
+  - first:
+      1: 100050
+    second: Kursi Luar 2
+  - first:
+      1: 100052
+    second: Kursi Luar 3
+  - first:
+      1: 100054
+    second: Lantai
+  - first:
+      1: 100056
+    second: Loker
+  - first:
+      1: 100058
+    second: Meja Guru
+  - first:
+      1: 100060
+    second: Papan Tulis
+  - first:
+      1: 100062
+    second: Tempat Kapur
+  - first:
+      1: 100064
+    second: Window Kanan
+  - first:
+      1: 100066
+    second: Window Kiri
+  - first:
+      1: 100068
+    second: Window.001
+  - first:
+      1: 100070
+    second: Window.002
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Bendera Merah Putih
+  - first:
+      4: 400004
+    second: Bendera Segitiga
+  - first:
+      4: 400006
+    second: Bendera Segitiga 2
+  - first:
+      4: 400008
+    second: Botol
+  - first:
+      4: 400010
+    second: Cover Jam
+  - first:
+      4: 400012
+    second: CTRL_Baseboard
+  - first:
+      4: 400014
+    second: CTRL_Hole
+  - first:
+      4: 400016
+    second: CTRL_Hole.001
+  - first:
+      4: 400018
+    second: CTRL_Hole.004
+  - first:
+      4: 400020
+    second: Cylinder.002
+  - first:
+      4: 400022
+    second: Door
+  - first:
+      4: 400024
+    second: Door_Group
+  - first:
+      4: 400026
+    second: DoorFrame
+  - first:
+      4: 400028
+    second: Handle_Back
+  - first:
+      4: 400030
+    second: Handle_Front
+  - first:
+      4: 400032
+    second: Jarum Jam
+  - first:
+      4: 400034
+    second: Jarum Jam 2
+  - first:
+      4: 400036
+    second: Kain Meja
+  - first:
+      4: 400038
+    second: kapur1
+  - first:
+      4: 400040
+    second: kapur2
+  - first:
+      4: 400042
+    second: kapur3
+  - first:
+      4: 400044
+    second: kapur4
+  - first:
+      4: 400046
+    second: Kursi Guru
+  - first:
+      4: 400048
+    second: Kursi Luar 1
+  - first:
+      4: 400050
+    second: Kursi Luar 2
+  - first:
+      4: 400052
+    second: Kursi Luar 3
+  - first:
+      4: 400054
+    second: Lantai
+  - first:
+      4: 400056
+    second: Loker
+  - first:
+      4: 400058
+    second: Meja Guru
+  - first:
+      4: 400060
+    second: Papan Tulis
+  - first:
+      4: 400062
+    second: Tempat Kapur
+  - first:
+      4: 400064
+    second: Window Kanan
+  - first:
+      4: 400066
+    second: Window Kiri
+  - first:
+      4: 400068
+    second: Window.001
+  - first:
+      4: 400070
+    second: Window.002
+  - first:
+      21: 2100000
+    second: hidden_material
+  - first:
+      21: 2100002
+    second: PVC2
+  - first:
+      21: 2100004
+    second: pvc3
+  - first:
+      21: 2100006
+    second: glas 3
+  - first:
+      21: 2100008
+    second: handle 2
+  - first:
+      21: 2100010
+    second: T.tembok.001
+  - first:
+      21: 2100012
+    second: Material.001
+  - first:
+      21: 2100014
+    second: Material.002
+  - first:
+      21: 2100016
+    second: jam strip merah
+  - first:
+      21: 2100018
+    second: jarum jam kecil
+  - first:
+      21: 2100020
+    second: jarum jam besar
+  - first:
+      21: 2100022
+    second: pin jam
+  - first:
+      21: 2100024
+    second: glas jam
+  - first:
+      21: 2100026
+    second: tempat kapur
+  - first:
+      21: 2100028
+    second: lis tempat kapur
+  - first:
+      21: 2100030
+    second: No Name
+  - first:
+      21: 2100032
+    second: T.PAPAN TULIS
+  - first:
+      21: 2100034
+    second: Plastic
+  - first:
+      21: 2100036
+    second: bendera merah
+  - first:
+      21: 2100038
+    second: bendera putih
+  - first:
+      21: 2100040
+    second: Tali hiasan dinding
+  - first:
+      21: 2100042
+    second: kuning niasan dindning
+  - first:
+      21: 2100044
+    second: Merah hiasan dindning
+  - first:
+      21: 2100046
+    second: vas
+  - first:
+      21: 2100048
+    second: t.taplak
+  - first:
+      21: 2100050
+    second: t.kursi murid
+  - first:
+      21: 2100052
+    second: T.meja guru
+  - first:
+      21: 2100054
+    second: t.loker
+  - first:
+      21: 2100056
+    second: pintu loker
+  - first:
+      21: 2100058
+    second: loker merah
+  - first:
+      21: 2100060
+    second: loker hijau
+  - first:
+      21: 2100062
+    second: loker ungu
+  - first:
+      21: 2100064
+    second: loker oren
+  - first:
+      21: 2100066
+    second: PVC
+  - first:
+      21: 2100068
+    second: Marble
+  - first:
+      21: 2100070
+    second: t.kursi luar
+  - first:
+      21: 2100072
+    second: base
+  - first:
+      23: 2300000
+    second: Bendera Merah Putih
+  - first:
+      23: 2300002
+    second: Bendera Segitiga
+  - first:
+      23: 2300004
+    second: Bendera Segitiga 2
+  - first:
+      23: 2300006
+    second: Botol
+  - first:
+      23: 2300008
+    second: Cover Jam
+  - first:
+      23: 2300010
+    second: CTRL_Baseboard
+  - first:
+      23: 2300012
+    second: CTRL_Hole
+  - first:
+      23: 2300014
+    second: CTRL_Hole.001
+  - first:
+      23: 2300016
+    second: CTRL_Hole.004
+  - first:
+      23: 2300018
+    second: Cylinder.002
+  - first:
+      23: 2300020
+    second: Door
+  - first:
+      23: 2300022
+    second: DoorFrame
+  - first:
+      23: 2300024
+    second: Handle_Back
+  - first:
+      23: 2300026
+    second: Handle_Front
+  - first:
+      23: 2300028
+    second: Jarum Jam
+  - first:
+      23: 2300030
+    second: Jarum Jam 2
+  - first:
+      23: 2300032
+    second: Kain Meja
+  - first:
+      23: 2300034
+    second: kapur1
+  - first:
+      23: 2300036
+    second: kapur2
+  - first:
+      23: 2300038
+    second: kapur3
+  - first:
+      23: 2300040
+    second: kapur4
+  - first:
+      23: 2300042
+    second: Kursi Guru
+  - first:
+      23: 2300044
+    second: Kursi Luar 1
+  - first:
+      23: 2300046
+    second: Kursi Luar 2
+  - first:
+      23: 2300048
+    second: Kursi Luar 3
+  - first:
+      23: 2300050
+    second: Lantai
+  - first:
+      23: 2300052
+    second: Loker
+  - first:
+      23: 2300054
+    second: Meja Guru
+  - first:
+      23: 2300056
+    second: Papan Tulis
+  - first:
+      23: 2300058
+    second: Tempat Kapur
+  - first:
+      23: 2300060
+    second: Window.001
+  - first:
+      23: 2300062
+    second: Window.002
+  - first:
+      33: 3300000
+    second: Bendera Merah Putih
+  - first:
+      33: 3300002
+    second: Bendera Segitiga
+  - first:
+      33: 3300004
+    second: Bendera Segitiga 2
+  - first:
+      33: 3300006
+    second: Botol
+  - first:
+      33: 3300008
+    second: Cover Jam
+  - first:
+      33: 3300010
+    second: CTRL_Baseboard
+  - first:
+      33: 3300012
+    second: CTRL_Hole
+  - first:
+      33: 3300014
+    second: CTRL_Hole.001
+  - first:
+      33: 3300016
+    second: CTRL_Hole.004
+  - first:
+      33: 3300018
+    second: Cylinder.002
+  - first:
+      33: 3300020
+    second: Door
+  - first:
+      33: 3300022
+    second: DoorFrame
+  - first:
+      33: 3300024
+    second: Handle_Back
+  - first:
+      33: 3300026
+    second: Handle_Front
+  - first:
+      33: 3300028
+    second: Jarum Jam
+  - first:
+      33: 3300030
+    second: Jarum Jam 2
+  - first:
+      33: 3300032
+    second: Kain Meja
+  - first:
+      33: 3300034
+    second: kapur1
+  - first:
+      33: 3300036
+    second: kapur2
+  - first:
+      33: 3300038
+    second: kapur3
+  - first:
+      33: 3300040
+    second: kapur4
+  - first:
+      33: 3300042
+    second: Kursi Guru
+  - first:
+      33: 3300044
+    second: Kursi Luar 1
+  - first:
+      33: 3300046
+    second: Kursi Luar 2
+  - first:
+      33: 3300048
+    second: Kursi Luar 3
+  - first:
+      33: 3300050
+    second: Lantai
+  - first:
+      33: 3300052
+    second: Loker
+  - first:
+      33: 3300054
+    second: Meja Guru
+  - first:
+      33: 3300056
+    second: Papan Tulis
+  - first:
+      33: 3300058
+    second: Tempat Kapur
+  - first:
+      33: 3300060
+    second: Window.001
+  - first:
+      33: 3300062
+    second: Window.002
+  - first:
+      43: 4300000
+    second: CTRL_Baseboard
+  - first:
+      43: 4300002
+    second: CTRL_Hole.004
+  - first:
+      43: 4300004
+    second: DoorFrame
+  - first:
+      43: 4300006
+    second: Door
+  - first:
+      43: 4300008
+    second: Handle_Back
+  - first:
+      43: 4300010
+    second: Handle_Front
+  - first:
+      43: 4300012
+    second: Lantai
+  - first:
+      43: 4300014
+    second: Cover Jam
+  - first:
+      43: 4300016
+    second: Jarum Jam
+  - first:
+      43: 4300018
+    second: Jarum Jam 2
+  - first:
+      43: 4300020
+    second: Tempat Kapur
+  - first:
+      43: 4300022
+    second: kapur1
+  - first:
+      43: 4300024
+    second: kapur2
+  - first:
+      43: 4300026
+    second: kapur3
+  - first:
+      43: 4300028
+    second: kapur4
+  - first:
+      43: 4300030
+    second: Papan Tulis
+  - first:
+      43: 4300032
+    second: Bendera Merah Putih
+  - first:
+      43: 4300034
+    second: Cylinder.002
+  - first:
+      43: 4300036
+    second: Bendera Segitiga
+  - first:
+      43: 4300038
+    second: Bendera Segitiga 2
+  - first:
+      43: 4300040
+    second: Botol
+  - first:
+      43: 4300042
+    second: Kain Meja
+  - first:
+      43: 4300044
+    second: Kursi Guru
+  - first:
+      43: 4300046
+    second: Meja Guru
+  - first:
+      43: 4300048
+    second: Loker
+  - first:
+      43: 4300050
+    second: CTRL_Hole.001
+  - first:
+      43: 4300052
+    second: Window.001
+  - first:
+      43: 4300054
+    second: CTRL_Hole
+  - first:
+      43: 4300056
+    second: Window.002
+  - first:
+      43: 4300058
+    second: Kursi Luar 1
+  - first:
+      43: 4300060
+    second: Kursi Luar 2
+  - first:
+      43: 4300062
+    second: Kursi Luar 3
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble
+    second: {fileID: 2100000, guid: affa53ca3332b9f45aa1d9c8be6f1baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c9fbd06aedf0a2c42b453abd373202d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 550d7742f26eafa42ab476aaaba9f983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Merah hiasan dindning
+    second: {fileID: 2100000, guid: f78b3b9ebb565cd47b8c66f3c9a0278a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e2d54b4c324cc424184001db12681450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: 01035bac56afe2f488db7d132c0bc264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC2
+    second: {fileID: 2100000, guid: 2a3144f33e8181f4a806eb1976fcee3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: ef28f457396d4944984e3ed08ae1b892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T.PAPAN TULIS
+    second: {fileID: 2100000, guid: 1c56a458be9ce5b4b983edd1aca3a050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T.meja guru
+    second: {fileID: 2100000, guid: 00fad40c0a1675c448cd70b51f04ea04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T.tembok.001
+    second: {fileID: 2100000, guid: 347f8d53a2940d841b980c8005e5ba22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tali hiasan dinding
+    second: {fileID: 2100000, guid: c39259396b8b14c44ba97bc0ccc5d804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base
+    second: {fileID: 2100000, guid: 90e4eb29d18517f4686672a2c30607ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bendera merah
+    second: {fileID: 2100000, guid: 66004c5cb1bf4d84b850d8914f32fb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bendera putih
+    second: {fileID: 2100000, guid: f027013470d08ae4dbbccd790461363e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glas 3
+    second: {fileID: 2100000, guid: f0567b3225012ac4f8f8d141c3fdeaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glas jam
+    second: {fileID: 2100000, guid: 045b3256bdba2514b98716745444a202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle 2
+    second: {fileID: 2100000, guid: d97bdd9518b9a5a48b1cc49e6f7b6d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hidden_material
+    second: {fileID: 2100000, guid: 61c436e35e541f14ebe6c2b04c25595e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jam strip merah
+    second: {fileID: 2100000, guid: 84211eaaa696b34408a784f0b041fbe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jarum jam besar
+    second: {fileID: 2100000, guid: 6ec146bbabbfb7547a50e588800168ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jarum jam kecil
+    second: {fileID: 2100000, guid: 3dec6b208c01fd941a035674094bb27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuning niasan dindning
+    second: {fileID: 2100000, guid: e2fce81b866b51545ba5b953a9a66503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lis tempat kapur
+    second: {fileID: 2100000, guid: de1d8859fada2774fbbfb5a6243e1de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loker hijau
+    second: {fileID: 2100000, guid: a6fcd491ee4ffbb4fa114add499a9435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loker merah
+    second: {fileID: 2100000, guid: 6fa1ce4d2d9a95b4b9cf5719d058a969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loker oren
+    second: {fileID: 2100000, guid: 4bb44aa7e1077b149acfc3f447b34dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loker ungu
+    second: {fileID: 2100000, guid: 49de073efe1fd04439ad9ec8d84ab7a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pin jam
+    second: {fileID: 2100000, guid: 609ab14b389d7794fa2eda292ebb7bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pintu loker
+    second: {fileID: 2100000, guid: f37282f3e18c53c45ae94e2b96802fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pvc3
+    second: {fileID: 2100000, guid: 003d6a3fe4726f342a564ee57fbbaed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t.kursi luar
+    second: {fileID: 2100000, guid: 6022e7bb29d576d4da5dea2e1a293346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t.kursi murid
+    second: {fileID: 2100000, guid: 6e05c460b0c25494ca08a75624225dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t.loker
+    second: {fileID: 2100000, guid: 8137cfca79c8cfe448849ad10deaa652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t.taplak
+    second: {fileID: 2100000, guid: e7432affd6fa33647b18a0b52a22bd5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tempat kapur
+    second: {fileID: 2100000, guid: cf1b1919eb02d5f46a314ee4f4d08f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vas
+    second: {fileID: 2100000, guid: ef5f9ce9cf87ea140852059edfd16b67, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

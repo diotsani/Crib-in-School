@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e3d1366087367544e82c571611bcdcb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: papan kayu texture
+    100004: papan kayu texture.001
+    100006: papan kayu texture.001|papan kayu.002|Dupli|
+    100008: papan kayu texture.002
+    100010: papan kayu texture.002|papan kayu.002|Dupli|
+    100012: papan kayu texture.003
+    100014: papan kayu texture.003|papan kayu.002|Dupli|
+    100016: papan kayu texture.004
+    100018: papan kayu texture.004|papan kayu.002|Dupli|
+    100020: papan kayu texture.005
+    100022: papan kayu texture.005|papan kayu.002|Dupli|
+    100024: papan kayu texture.006
+    100026: papan kayu texture.006|papan kayu.002|Dupli|
+    100028: papan kayu texture.007
+    100030: papan kayu texture.007|papan kayu.002|Dupli|
+    100032: papan kayu texture.008
+    100034: papan kayu texture.008|papan kayu.002|Dupli|
+    100036: papan kayu texture.009
+    100038: papan kayu texture.009|papan kayu.002|Dupli|
+    100040: papan kayu texture.010
+    100042: papan kayu texture.010|papan kayu.002|Dupli|
+    100044: papan kayu texture.011
+    100046: papan kayu texture.011|papan kayu.002|Dupli|
+    100048: papan kayu texture|papan kayu.002|Dupli|
+    100050: papan kayu.002
+    100052: Plane
+    400000: //RootNode
+    400002: papan kayu texture
+    400004: papan kayu texture.001
+    400006: papan kayu texture.001|papan kayu.002|Dupli|
+    400008: papan kayu texture.002
+    400010: papan kayu texture.002|papan kayu.002|Dupli|
+    400012: papan kayu texture.003
+    400014: papan kayu texture.003|papan kayu.002|Dupli|
+    400016: papan kayu texture.004
+    400018: papan kayu texture.004|papan kayu.002|Dupli|
+    400020: papan kayu texture.005
+    400022: papan kayu texture.005|papan kayu.002|Dupli|
+    400024: papan kayu texture.006
+    400026: papan kayu texture.006|papan kayu.002|Dupli|
+    400028: papan kayu texture.007
+    400030: papan kayu texture.007|papan kayu.002|Dupli|
+    400032: papan kayu texture.008
+    400034: papan kayu texture.008|papan kayu.002|Dupli|
+    400036: papan kayu texture.009
+    400038: papan kayu texture.009|papan kayu.002|Dupli|
+    400040: papan kayu texture.010
+    400042: papan kayu texture.010|papan kayu.002|Dupli|
+    400044: papan kayu texture.011
+    400046: papan kayu texture.011|papan kayu.002|Dupli|
+    400048: papan kayu texture|papan kayu.002|Dupli|
+    400050: papan kayu.002
+    400052: Plane
+    2100000: T.papan kayu2.001
+    2100002: T.papan kayu.001
+    2100004: base kayu
+    2300000: papan kayu texture.001|papan kayu.002|Dupli|
+    2300002: papan kayu texture.002|papan kayu.002|Dupli|
+    2300004: papan kayu texture.003|papan kayu.002|Dupli|
+    2300006: papan kayu texture.004|papan kayu.002|Dupli|
+    2300008: papan kayu texture.005|papan kayu.002|Dupli|
+    2300010: papan kayu texture.006|papan kayu.002|Dupli|
+    2300012: papan kayu texture.007|papan kayu.002|Dupli|
+    2300014: papan kayu texture.008|papan kayu.002|Dupli|
+    2300016: papan kayu texture.009|papan kayu.002|Dupli|
+    2300018: papan kayu texture.010|papan kayu.002|Dupli|
+    2300020: papan kayu texture.011|papan kayu.002|Dupli|
+    2300022: papan kayu texture|papan kayu.002|Dupli|
+    2300024: papan kayu.002
+    2300026: Plane
+    3300000: papan kayu texture.001|papan kayu.002|Dupli|
+    3300002: papan kayu texture.002|papan kayu.002|Dupli|
+    3300004: papan kayu texture.003|papan kayu.002|Dupli|
+    3300006: papan kayu texture.004|papan kayu.002|Dupli|
+    3300008: papan kayu texture.005|papan kayu.002|Dupli|
+    3300010: papan kayu texture.006|papan kayu.002|Dupli|
+    3300012: papan kayu texture.007|papan kayu.002|Dupli|
+    3300014: papan kayu texture.008|papan kayu.002|Dupli|
+    3300016: papan kayu texture.009|papan kayu.002|Dupli|
+    3300018: papan kayu texture.010|papan kayu.002|Dupli|
+    3300020: papan kayu texture.011|papan kayu.002|Dupli|
+    3300022: papan kayu texture|papan kayu.002|Dupli|
+    3300024: papan kayu.002
+    3300026: Plane
+    4300000: papan kayu.002
+    4300002: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+note bg hitam ditaruh dibelakang layar option, abot, level select, pause, result, dan tutorial. jika bingung bisa lihat perbedaanya 
+di preview saat di main menu dan di layar option

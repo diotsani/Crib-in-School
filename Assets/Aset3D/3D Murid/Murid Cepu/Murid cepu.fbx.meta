@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: f398cf5d0d2ea644f851fb13b80abcb5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -7794067148850215424
+    second: Body Armature.004|animasi melapor khusus cepu
+  - first:
+      74: -2173589854596974944
+    second: Body Armature.004|animasi melapor khusus cepu.003
+  - first:
+      74: -8092554661049146360
+    second: Body Armature.004|IDLE
+  - first:
+      74: 2880992035297918422
+    second: Body Armature.004|katahuan
+  - first:
+      74: -4302776101671922423
+    second: Body Armature.004|katahuan.003
+  - first:
+      74: -3517868502511315083
+    second: Body Armature.004|ketahuan2
+  - first:
+      74: -2303232630184508716
+    second: Body Armature.004|ketahuan3
+  - first:
+      74: -4740877092575246828
+    second: Body Armature.004|lempar  kanan
+  - first:
+      74: 4030154217337548274
+    second: Body Armature.004|lempar belakan kiri
+  - first:
+      74: 6627794096504436713
+    second: Body Armature.004|lempar belakang
+  - first:
+      74: -4648870368925372456
+    second: Body Armature.004|lempar belakang kanan
+  - first:
+      74: 3594094621355659710
+    second: Body Armature.004|lempar depan
+  - first:
+      74: 5474759812124853120
+    second: Body Armature.004|lempar depan kanan
+  - first:
+      74: -5256839612584040457
+    second: Body Armature.004|lempar depan kiri
+  - first:
+      74: 834205730880511122
+    second: Body Armature.004|lempar depan.004
+  - first:
+      74: 1754534116267808522
+    second: Body Armature.004|lempar kiri
+  - first:
+      74: -946815835647549649
+    second: Body Armature.004|NOLEH
+  - first:
+      74: 4637761969066394655
+    second: Body Armature.004|pensil animasi noleh
+  - first:
+      74: 3129294490782778178
+    second: Body Armature.004|PENSIL idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: e769f8577a8f757469645cb28741f3c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 32d843acc3ae2304c8dfd5817580911f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: 20c39c126e65c964093d8463e64ed845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: 0f534bf262015704b957a6a43d030d6e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
